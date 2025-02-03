@@ -17,10 +17,9 @@
 <hr>
 
 ## Please Follow me so you know whenever I release a new Project!❤️‍🔥
-## [Tutorial Video](https://youtu.be/u773hq1tGiA)
 ## 🍁 About This Bot :
 
-![streamingfilestreambot-professional-live_1](https://user-images.githubusercontent.com/88939380/137127129-a86fc939-2931-4c66-b6f6-b57711a9eab7.png)
+![streamingfilestreambot-professional-live_1]
 
 </p>
 <p align='center'>
@@ -129,7 +128,7 @@ DATABASE_URL=mongodb_uri
 
 `DATABASE_URL` : MongoDB URI for saving User IDs when they first Start the Bot. We will use that for Broadcasting to them. I will try to add more features related with Database. If you need help to get the URI you can click on logo below!
 
-[![mongo](https://telegra.ph/file/fd68906852c71fdd68bef.jpg)](https://www.youtube.com/watch?v=HhHzCfrqsoE)
+[![mongo](https://telegra.ph/file/fd68906852c71fdd68bef.jpg)]
 
  Option Vars
 
@@ -166,5 +165,5 @@ Bot also Supported with Channels. Just add bot Channel as Admin. If any new file
 
 ### Credits : 
 
-- [Me](https://github.com/adarsh-goel)
+- [Me](https://github.com/Amandubey321)
 - Everyone In This Journey !
