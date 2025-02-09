@@ -10,7 +10,7 @@
     <br />
     <a href="https://github.com/adarsh-goel/pro/issues">Report a Bug</a>
     |
-    <a href="https://github.com/adarsh-goel/filestreambot-pro/issues">Request Feature</a>
+    <a href="https://github.com/aman-dubeyl/filestreambot-pro/issues">Request Feature</a>
   </p>
 
 
